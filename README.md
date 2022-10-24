@@ -86,22 +86,39 @@ Someone to show us the way
 
 # Poem By text-ada-001
 
-The sky is blue,
+The sky is blue, 
+
 And the stars are shining,
+
 And the sun is shining,
+
 And everything is right
+
 In the world, in my mind
+
 The air smells sweet,
+
 And I feel so alive,
-In my heart I know that I am whole
-And everything is well
-In this moment I am happy,
-And I know that I am alive,
-And I feel so good,
+
 In my heart I know that I am whole
 
 And everything is well
+
 In this moment I am happy,
+
 And I know that I am alive,
+
 And I feel so good,
+
+In my heart I know that I am whole
+
+
+And everything is well
+
+In this moment I am happy,
+
+And I know that I am alive,
+
+And I feel so good,
+
 In my heart I know that I am whole
